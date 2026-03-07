@@ -178,6 +178,13 @@ price anomaly detection
 
 If critical validation rules fail, the pipeline stops execution.
 
+---
+
+### 🔟 SSRS Sales Overview Report
+The warehouse powers an SSRS report that provides an overview of sales performance.
+
+
+
 
 
 
