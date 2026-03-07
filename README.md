@@ -36,5 +36,6 @@ SSRS Reporting Layer
 
 ### 1️⃣ Warehouse Schema
 The warehouse follows a star schema design optimized for analytical workloads.
+![Warehouse Schema](EcomDW_Project/Images/EcomDw_Diagram.png)
 
 
