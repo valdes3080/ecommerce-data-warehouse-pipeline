@@ -161,8 +161,7 @@ Timestamps
 ### 9️⃣ Data Validation Framework
 
 A validation stored procedure acts as a data quality gate before pipeline completion.
-![Data Validation](EcomDW_Project/Images/ValidationQuery_1.png)
-![Data Validation](EcomDW_Project/Images/ValidationQuery_2.png)
+![Data Validation](EcomDW_Project/Image/usp_ValidationLoad_image.png)
 
 ## Validation checks include:
 
