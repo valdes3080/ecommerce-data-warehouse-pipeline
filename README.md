@@ -15,7 +15,7 @@ Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
 <div align="center">
 
   
-### ## Data Pipeline Architecture
+## Data Pipeline Architecture
 
 Synthetic Data Generation → ETL Pipeline → Dimensional Warehouse → Analytics
 
