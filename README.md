@@ -3,6 +3,9 @@ Overview
 An end-to-end data engineering project that simulates a production
 data warehouse environment using SQL Server, SSIS, and SSRS.
 
+
+[Visual Architecture of Pipeline](EcomDW_Project/Images/Architecture_img.png)
+
 Key capabilities demonstrated:
 • Star schema dimensional modeling
 • Automated ETL pipeline (SSIS)
