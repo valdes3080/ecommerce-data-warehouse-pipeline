@@ -26,8 +26,6 @@ SourceFile and LoadDttm columns enable full auditability.
 
 
 
-Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
-
 <div align="center">
 
 ![Visual](EcomDW_Project/Images/Architecture_img.png)
