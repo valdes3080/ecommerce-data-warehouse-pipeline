@@ -51,15 +51,15 @@ The ETL pipeline is orchestrated using SQL Server Integration Services (SSIS).
 # Key Pipline Stages Include:
 Pipeline initialization
 
-Staging loads
+✔ Staging loads
 
-Dimension upserts
+✔ Dimension upserts
 
-Fact table loading
+✔ Fact table loading
 
-Validation framework
+✔ Validation framework
 
-Execution logging
+✔ Execution logging
 
 ---
 
@@ -67,13 +67,12 @@ Execution logging
 CSV files are processed through an SSIS data flow which performs transformations before loading staging tables.
 ![Data Flow](EcomDW_Project/Images/DataFlow_File_Ingestion.png)
 
+<div align="center">
+
 # Transformations performed:
 
-Data type conversions
-
-Error handling paths
-
-Staging table insertion
+Data type conversions        •       Error handling paths     •          Staging table insertion
+</div>
 
 
 
