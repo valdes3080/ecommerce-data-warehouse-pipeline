@@ -17,13 +17,13 @@ The goal of this project is to simulate a **production-style data warehouse pipe
 
 ## 🛠 Tech StackTech Stack
 
-![Python](https://img.shields.io/badge/Python-Data%20Generation-gold)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![SSIS](https://img.shields.io/badge/SSIS-ETL-blue)
-![SSRS](https://img.shields.io/badge/SSRS-Reporting-green)
-![T-SQL](https://img.shields.io/badge/T--SQL-Data%20Transformation-orange)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-Development-purple)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Python](https://img.shields.io/badge/Python-Data%20Generation-teal)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-teal)
+![SSIS](https://img.shields.io/badge/SSIS-ETL-teal)
+![SSRS](https://img.shields.io/badge/SSRS-Reporting-teal)
+![T-SQL](https://img.shields.io/badge/T--SQL-Data%20Transformation-teal)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-Development-teal)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-teal)
 </div>
 
 
