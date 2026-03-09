@@ -5,6 +5,7 @@ Overview:
 This project demonstrates an end-to-end data engineering pipeline built using SQL Server and SSIS.
 
 The system generates synthetic sales data using Python, ingests it through an automated ETL pipeline,
+
 loads it into a dimensional data warehouse, and exposes the data for analytics using SSRS.
 
 The goal is to simulate a production-style data warehouse pipeline.
