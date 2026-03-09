@@ -20,7 +20,7 @@ Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
 
 </div>
 
-# Key Engineering Concepts Demonstrated
+## Key Engineering Concepts Demonstrated
 
 ✔ Dimensional Modeling
 Designed a star schema including DimDate, DimProduct, DimStore, and FactSales.
