@@ -1,4 +1,5 @@
 # E-Commerce Data Warehouse Pipeline (EcomDW)
+
 Overview
 An end-to-end data engineering project that simulates a production
 data warehouse environment using SQL Server, SSIS, and SSRS.
