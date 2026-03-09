@@ -27,8 +27,6 @@ The goal of this project is to simulate a **production-style data warehouse pipe
 </div>
 
 
-## Key Engineering Concepts Demonstrated
-
 ## Data Engineering Practices
 
 This project was designed to simulate production-style data engineering workflows.
