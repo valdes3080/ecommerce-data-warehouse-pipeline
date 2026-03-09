@@ -5,8 +5,7 @@ Overview
 An end-to-end data engineering project that simulates a production
 data warehouse environment using SQL Server, SSIS, and SSRS.
 
-<div align="center">
-# Key Engineering Concepts Demonstrated
+## Key Engineering Concepts Demonstrated
 
 ✔ Dimensional Modeling:
 Designed a star schema including DimDate, DimProduct, DimStore, and FactSales.
@@ -22,7 +21,6 @@ Custom validation stored procedure ensures pipeline integrity before loading.
 
 ✔ Lineage Tracking:
 SourceFile and LoadDttm columns enable full auditability.
-</div>
 
 
 
