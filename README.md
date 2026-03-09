@@ -1,38 +1,26 @@
 # E-Commerce Data Warehouse Pipeline (EcomDW)
 Overview
+An end-to-end data engineering project that simulates a production
+data warehouse environment using SQL Server, SSIS, and SSRS.
 
-This project demonstrates the design and implementation of a complete end-to-end data engineering pipeline for an e-commerce analytics platform. The system simulates a production-style workflow where raw transactional data is generated, ingested through an ETL pipeline, modeled in a dimensional warehouse, and exposed through business intelligence reports.
+Key capabilities demonstrated:
+• Star schema dimensional modeling
+• Automated ETL pipeline (SSIS)
+• Data quality validation gates
+• Incremental fact loading
+• Analytical reporting (SSRS)
 
-The goal of this project is to demonstrate practical experience with data pipeline architecture, dimensional modeling, ETL orchestration, data validation, and analytics reporting.
-
+Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
 
 <div align="center">
 
   
-### Project Architecture
+### ## Data Pipeline Architecture
+
+Synthetic Data Generation → ETL Pipeline → Dimensional Warehouse → Analytics
 
 The pipeline transforms generated transactional data into a structured analytics warehouse.
 
-
-Python Data Generator  
-↓  
-CSV Source Files  
-↓  
-SSIS ETL Pipeline  
-↓  
-Staging Tables  
-↓  
-Deduplication View  
-↓  
-Dimension Upserts  
-↓  
-Fact Table Load  
-↓  
-Validation Framework  
-↓  
-Run Metadata Logging  
-↓  
-SSRS Reporting Layer  
 
 </div>
 
