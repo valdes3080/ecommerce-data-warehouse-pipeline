@@ -10,6 +10,8 @@ loads it into a dimensional data warehouse, and exposes the data for analytics u
 
 The goal is to simulate a production-style data warehouse pipeline.
 
+
+
 ## Key Engineering Concepts Demonstrated
 
 ✔ Dimensional Modeling:
