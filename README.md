@@ -41,7 +41,7 @@ SourceFile and LoadDttm columns enable full auditability.
 
 <div align="center">
 
-## Tech Stack
+## 🛠 Tech StackTech Stack
 
 ![Python](https://img.shields.io/badge/Python-Data%20Generation-yellow)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
