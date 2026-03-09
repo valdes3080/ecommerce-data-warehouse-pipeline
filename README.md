@@ -17,7 +17,7 @@ The goal of this project is to simulate a **production-style data warehouse pipe
 
 ## 🛠 Tech StackTech Stack
 
-![Python](https://img.shields.io/badge/Python-Data%20Generation-yellow)
+![Python](https://img.shields.io/badge/Python-Data%20Generation-teal)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
 ![SSIS](https://img.shields.io/badge/SSIS-ETL-blue)
 ![SSRS](https://img.shields.io/badge/SSRS-Reporting-green)
