@@ -3,24 +3,6 @@ Overview
 An end-to-end data engineering project that simulates a production
 data warehouse environment using SQL Server, SSIS, and SSRS.
 
-
-[Visual Architecture of Pipeline](EcomDW_Project/Images/Architecture_img.png)
-
-Key capabilities demonstrated:
-• Star schema dimensional modeling
-• Automated ETL pipeline (SSIS)
-• Data quality validation gates
-• Incremental fact loading
-• Analytical reporting (SSRS)
-
-Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
-
-<div align="center">
-
-
-
-</div>
-
 ## Key Engineering Concepts Demonstrated
 
 ✔ Dimensional Modeling
@@ -40,6 +22,14 @@ SourceFile and LoadDttm columns enable full auditability.
 
 
 
+
+Tools: SQL Server | SSIS | SSRS | Git | Data Warehousing
+
+<div align="center">
+
+![Visual](EcomDW_Project/Images/Architecture_img.png)
+
+</div>
 
 
 
