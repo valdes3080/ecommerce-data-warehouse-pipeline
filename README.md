@@ -64,50 +64,6 @@ The animation below demonstrates how data moves through the ETL pipeline from in
 
 
   
-### 4️⃣ Staging Layer
-Raw source data is first loaded into the staging table:
-
-stg.SalesRaw
-
-The staging layer serves several purposes:
-
-Preserve raw source data
-
-Enable validation and cleansing
-
-Support reprocessing if needed
-
----
-
-
-### 5️⃣ Deduplication Logic
-To enforce the correct grain of the dataset, a staging view removes duplicate records.
-
-Grain Enforced:
-
-SalesDate
-ProdectId
-StoreId
-
-Implementation uses a window function:
-
-ROW_NUMBER() OVER (
-PARTITION BY SaleDate, ProductId, StoreId
-ORDER BY LoadDttm DESC
-)
-
-Only the most recent record per grain is retained.
----
-
-
-### 6️⃣ Dimension Upserts
-Dimension tables are maintained using an upsert pattern:
-
-Update existing dimension records if attributes change
-
-Insert new dimension records when the natural key does not exist
-
-This ensures the warehouse dimensions stay synchronized with the incoming source data.
 
 ---
 
