@@ -15,7 +15,7 @@ The goal of this project is to simulate a **production-style data warehouse pipe
 
 <div align="center">
 
-## 🛠 Tech StackTech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-Data%20Generation-teal)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-teal)
