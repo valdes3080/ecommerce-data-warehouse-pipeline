@@ -97,6 +97,8 @@ A validation stored procedure acts as a data quality gate before pipeline comple
 :warning: If critical validation rules fail, the pipeline stops execution.
 
 </div>
+
+
 ---
 
 ###  SSRS Sales Overview Report
