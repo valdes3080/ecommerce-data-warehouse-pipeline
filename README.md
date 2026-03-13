@@ -132,15 +132,15 @@ Users can filter data by:
 
 # Future Enhancements:
 
-Potential improvements include:
+:ballot_box_with_check:  Potential improvements include:
 
-Incremental loading strategies
+:ballot_box_with_check:  Incremental loading strategies
 
-Slowly changing dimension support
+:ballot_box_with_check:  Slowly changing dimension support
 
-Automated anomaly detection
+:ballot_box_with_check:  Automated anomaly detection
 
-Orchestration with modern tools such as Airflow
+:ballot_box_with_check:  Orchestration with modern tools such as Airflow
 
 
 </div>
