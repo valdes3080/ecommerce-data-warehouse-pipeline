@@ -112,18 +112,17 @@ The warehouse powers an SSRS report that provides an overview of sales performan
   
 Users can filter data by:
 
-Category
+:clipboard:  Category
 
-Region
+:earth_americas:  Region
 
-Brand
+:sparkles:  Brand
 
-Store
+:convenience_store:  Store
 
-Date range
+:calendar:  Date range
 
 </div>
-
 ---
 
 
