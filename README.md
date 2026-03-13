@@ -26,15 +26,7 @@ The goal of this project is to simulate a **production-style data warehouse pipe
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-teal)
 </div>
 
----
 
-![Testing](EcomDW_Project/Images/Transparent_.png)
-
-
-
-
-
----
 
 ## Data Engineering Practices
 
