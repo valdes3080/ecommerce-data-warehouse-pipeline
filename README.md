@@ -45,16 +45,13 @@ The animation below demonstrates how data moves through the ETL pipeline from in
 
 </div>
 
----
-
-<div align="center">
-
-![ETL_PROCESS](EcomDW_Project/Images/ETL_process_at_a_glance.gif)
 
 
-</div>
+<p align="center">
+  <img src="images/ETL_process_at_a_glance.gif" width="100%">
+</p>
 
----
+
 
 
 
