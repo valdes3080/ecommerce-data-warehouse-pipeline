@@ -52,7 +52,9 @@ The animation below demonstrates how data moves through the ETL pipeline from in
 </p>
 
 
-
+<p align="center">
+  <img src="EcomDW_Project/Images/Encoded.mp4" width="100%">
+</p
 
 
 
